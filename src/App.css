@@ -1,0 +1,9 @@
+@font-face {
+  font-family: sega;
+  src: url(SEGA.TTF);
+}
+h1 {
+  font-family: sega;
+
+  letter-spacing: 10px;
+}
