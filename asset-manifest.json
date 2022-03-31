@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kodecampCards/static/css/main.b36725e8.chunk.css",
+    "main.js": "/kodecampCards/static/js/main.83e00290.chunk.js",
+    "main.js.map": "/kodecampCards/static/js/main.83e00290.chunk.js.map",
+    "runtime-main.js": "/kodecampCards/static/js/runtime-main.ed8d9461.js",
+    "runtime-main.js.map": "/kodecampCards/static/js/runtime-main.ed8d9461.js.map",
+    "static/css/2.383c0125.chunk.css": "/kodecampCards/static/css/2.383c0125.chunk.css",
+    "static/js/2.54b6182e.chunk.js": "/kodecampCards/static/js/2.54b6182e.chunk.js",
+    "static/js/2.54b6182e.chunk.js.map": "/kodecampCards/static/js/2.54b6182e.chunk.js.map",
+    "static/js/3.c7900222.chunk.js": "/kodecampCards/static/js/3.c7900222.chunk.js",
+    "static/js/3.c7900222.chunk.js.map": "/kodecampCards/static/js/3.c7900222.chunk.js.map",
+    "index.html": "/kodecampCards/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/kodecampCards/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.b36725e8.chunk.css.map": "/kodecampCards/static/css/main.b36725e8.chunk.css.map",
+    "static/js/2.54b6182e.chunk.js.LICENSE.txt": "/kodecampCards/static/js/2.54b6182e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/kodecampCards/static/media/SEGA.8a619f32.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed8d9461.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.54b6182e.chunk.js",
+    "static/css/main.b36725e8.chunk.css",
+    "static/js/main.83e00290.chunk.js"
+  ]
+}
