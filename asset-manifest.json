@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kodecampCards/static/css/main.b36725e8.chunk.css",
-    "main.js": "/kodecampCards/static/js/main.83e00290.chunk.js",
-    "main.js.map": "/kodecampCards/static/js/main.83e00290.chunk.js.map",
+    "main.js": "/kodecampCards/static/js/main.3c36b3ca.chunk.js",
+    "main.js.map": "/kodecampCards/static/js/main.3c36b3ca.chunk.js.map",
     "runtime-main.js": "/kodecampCards/static/js/runtime-main.ed8d9461.js",
     "runtime-main.js.map": "/kodecampCards/static/js/runtime-main.ed8d9461.js.map",
     "static/css/2.383c0125.chunk.css": "/kodecampCards/static/css/2.383c0125.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.54b6182e.chunk.js",
     "static/css/main.b36725e8.chunk.css",
-    "static/js/main.83e00290.chunk.js"
+    "static/js/main.3c36b3ca.chunk.js"
   ]
 }
